@@ -18,5 +18,5 @@ while(i*i < n):
 if n>1:
     factor.append(n)
 
-print(max(factor))
+print(int(max(factor)))
     
